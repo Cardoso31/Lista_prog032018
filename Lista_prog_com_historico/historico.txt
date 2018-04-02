@@ -1,0 +1,12 @@
+
+
+02/04/2018 as 15:05:39 O usuario informou 5
+ para a função ' (4)=> Fatorial Completo'
+
+02/04/2018 as 15:10:19 O usuario informou $num para a função "(4)=> Fatorial Completo"\n
+
+02/04/2018 as 15:13:49 O usuario informou 5
+ para a função '(4)=> Fatorial Completo'
+
+02/04/2018 as 15:14:46 O usuario informou 3
+ para a função '(4)=> Fatorial Completo'
